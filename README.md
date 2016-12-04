@@ -6,4 +6,4 @@ nasıl olduğunu yönünde ele alınmış bir projedir.
 Northwind Database kullanılmıştır. 
 SP'leri yaratmak için StorecProcedureScripts klasöründe gerekli script dosyaları mevcuttur.
 Eğer mevcutta Northwind DB'ye sahip değil iseniz aşağıdaki linkten edinebilirsiniz.
-Northwind Db Link: https://www.microsoft.com/en-us/download/confirmation.aspx?id=23654
+Northwind Db Link: https://northwinddatabase.codeplex.com/#
